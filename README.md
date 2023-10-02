@@ -1,9 +1,8 @@
 # Rutgers Datathon Fall 2023 – Global Temperature Anomalies Forecast
 Time-series forecasting of climate variability for Rutgers Fall 2023 Datathon
 
-# Rutgers Datathon Fall 2023 – Global Temperature Anomalies Forecast
-[![R](https://img.shields.io/badge/R-Statistical%20Computing-blue)]
-[![ggplot2](https://img.shields.io/badge/ggplot2-Data%20Visualization-red)]
+[![R](https://img.shields.io/badge/R-Statistical%20Computing-blue)](https://www.r-project.org/)
+[![ggplot2](https://img.shields.io/badge/ggplot2-Data%20Visualization-red)](https://ggplot2.tidyverse.org/)
 [![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-purple)](https://keras.io/)
 
 ## Overview

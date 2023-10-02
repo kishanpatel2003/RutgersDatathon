@@ -15,10 +15,12 @@ In the Rutgers Fall 2023 Datathon, I undertook a project aimed at forecasting gl
 ## Project Details:
 
 ### 1. Data Collection and Preprocessing
-Acquired a dataset depicting global temperature anomalies starting from the year 1850. The data underwent various preprocessing tasks ensuring its readiness for subsequent modeling.
+Acquired a dataset depicting global temperature anomalies starting from the year 1850. The data underwent various preprocessing tasks ensuring its readiness for modeling.
 
 ### 2. Exploratory Data Analysis (EDA)
 Conducted EDA to understand the dataset's underlying patterns, seasonality, and trends. Visualizations aided in grasping the dataset's historical temperature shifts.
+
+![Image Alt Text](/ArimaForecast.jpeg)
 
 ### 3. Model Building & Selection:
 Several predictive models were attempted:
@@ -30,4 +32,5 @@ Several predictive models were attempted:
 The ARIMA model excelled in predictive accuracy when juxtaposed with the other models. It achieved an MAE of approximately 0.069%.
 
 ### 5. Real-world Implications:
+![Image Alt Text](/AnamolyForecast.jpeg)
 The forecasting results underscore a continued trajectory in temperature anomalies, signaling consistent climatic shifts. These findings not only reinforce current discussions surrounding global climate patterns but also punctuate the urgency required in addressing them.

@@ -33,6 +33,6 @@ The ARIMA model excelled in predictive accuracy when juxtaposed with the other m
 
 ### 5. Real-world Implications:
 
-![Image Alt Text](/AnamolyForecast.jpg)
+![Image Alt Text](/AnomalyForecast.jpg)
 
 The forecasting results underscore a continued trajectory in temperature anomalies, signaling consistent climatic shifts. These findings not only reinforce current discussions surrounding global climate patterns but also punctuate the urgency required in addressing them.

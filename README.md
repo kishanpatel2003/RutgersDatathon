@@ -8,6 +8,8 @@ Time-series forecasting of climate variability for Rutgers Fall 2023 Datathon
 ## Overview
 In the Rutgers Fall 2023 Datathon, I undertook a project aimed at forecasting global temperature anomalies. By leveraging R's capabilities, I engaged in a comprehensive analysis and predictive modeling to understand and forecast temperature fluctuations.
 
+## WINNER - BEST USE OF AI
+
 ## Technologies & Packages
 - **Languages:** R
 - **Packages:** `forecast`, `prophet`, `keras`, `ggplot2`, `gridExtra`

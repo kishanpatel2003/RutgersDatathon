@@ -1,4 +1,4 @@
-# Rutgers Datathon Fall 2023 – Global Temperature Anomalies Forecast
+# Rutgers Datathon Fall 2023 (Won) – Global Temperature Anomalies Forecast
 Time-series forecasting of climate variability for Rutgers Fall 2023 Datathon
 
 ## 🏆 Rutgers Data Science Club Datathon Winner (Best Use of AI)
